@@ -12,6 +12,7 @@ Learn System Design concepts and prepare for interviews using free resources.
 - [Packets](https://www.cloudflare.com/en-gb/learning/network-layer/what-is-a-packet/)
 - [CAP Theorem](https://www.bmc.com/blogs/cap-theorem/)
 - [ACID Transactions](https://redis.com/glossary/acid-transactions/)
+- [ACID transactions Part 2](https://medium.com/@jrishabh417/how-sql-databases-ensure-acid-properties-a-deep-dive-into-data-reliability-77524e908d70/)
 - [Consistent Hashing](https://highscalability.com/consistent-hashing-algorithm/)
 - [Rate Limiting](https://www.imperva.com/learn/application-security/rate-limiting/)
 - [API Design](https://abdulrwahab.medium.com/api-architecture-best-practices-for-designing-rest-apis-bf907025f5f)
