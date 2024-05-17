@@ -9,6 +9,7 @@ Learn System Design concepts and prepare for interviews using free resources.
 ## 📌 System Design Key Concepts
 - [Scalability](https://newsletter.ashishps.com/p/scalability)
 - [Latency vs Throughput](https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/)
+- [Packets](https://www.cloudflare.com/en-gb/learning/network-layer/what-is-a-packet/)
 - [CAP Theorem](https://www.bmc.com/blogs/cap-theorem/)
 - [ACID Transactions](https://redis.com/glossary/acid-transactions/)
 - [Consistent Hashing](https://highscalability.com/consistent-hashing-algorithm/)
